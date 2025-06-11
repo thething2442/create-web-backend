@@ -1,0 +1,1 @@
+ALTER TABLE `post` ADD `table_of_contents` text NOT NULL;

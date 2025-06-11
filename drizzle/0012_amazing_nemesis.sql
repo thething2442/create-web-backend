@@ -1,0 +1,1 @@
+ALTER TABLE `table_of_content` ADD `date_publish` text NOT NULL;

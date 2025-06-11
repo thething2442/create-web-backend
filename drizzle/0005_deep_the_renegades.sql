@@ -1,0 +1,1 @@
+ALTER TABLE `post` ADD `post_json` text NOT NULL;
